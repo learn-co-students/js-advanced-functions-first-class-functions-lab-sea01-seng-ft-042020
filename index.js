@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const a = function(drivers) {
+    return drivers[0]
+}
